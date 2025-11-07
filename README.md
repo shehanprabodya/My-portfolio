@@ -1,16 +1,85 @@
-# React + Vite
+Perfect! Here’s your **final clean README.md** with the folder structure, license, and author sections removed:
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+````markdown
+# My Portfolio
 
-Currently, two official plugins are available:
+Welcome to my personal portfolio website built with **React** and **Vite**!  
+This project showcases my work, projects, skills, and contact information.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🌐 Live Demo
 
-## React Compiler
+Check out the live site here:  
+[My Portfolio](https://shehanprabodya.github.io/My-portfolio/)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+This project uses modern web development tools:
+
+- **React** – Frontend library for building user interfaces  
+- **Vite** – Fast build tool and development server  
+- **Framer Motion** – For smooth animations and transitions  
+- **React Icons** – Ready-to-use icons for social links and UI  
+- **GitHub Pages** – Free hosting for the portfolio  
+
+---
+
+## 💻 Features
+
+- Responsive design for desktop and mobile  
+- Animated components using Framer Motion  
+- Interactive project cards and social links  
+- Easy to update and extend  
+
+---
+
+## 🚀 Getting Started
+
+If you want to run this project locally:
+
+1. **Clone the repository**  
+```bash
+git clone https://github.com/shehanprabodya/My-portfolio.git
+cd My-portfolio
+````
+
+2. **Install dependencies**
+
+```bash
+npm install
+```
+
+3. **Start development server**
+
+```bash
+npm run dev
+```
+
+4. **Build for production**
+
+```bash
+npm run build
+```
+
+5. **Deploy to GitHub Pages**
+
+```bash
+npm run deploy
+```
+
+---
+
+## 🔗 Links
+
+* **GitHub Repository:** [My Portfolio Repo](https://github.com/shehanprabodya/My-portfolio)
+* **Live Site:** [https://shehanprabodya.github.io/My-portfolio/](https://shehanprabodya.github.io/My-portfolio/)
+
+```
+
+---
+
+
+
+Do you want me to do that?
+```

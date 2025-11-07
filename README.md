@@ -1,6 +1,6 @@
-Perfect! Here’s your **final clean README.md** with the folder structure, license, and author sections removed:
 
-````markdown
+
+
 # My Portfolio
 
 Welcome to my personal portfolio website built with **React** and **Vite**!  
@@ -81,5 +81,4 @@ npm run deploy
 
 
 
-Do you want me to do that?
-```
+

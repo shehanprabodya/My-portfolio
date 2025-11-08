@@ -3,10 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  
   "homepage": "https://shehanprabodya.github.io/My-portfolio",
-  
-  
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -14,8 +11,16 @@
     "deploy": "gh-pages -d dist"
   },
   "dependencies": {
+    "@radix-ui/react-toast": "^1.2.15",
+    "@tailwindcss/vite": "^4.1.17",
+    "class-variance-authority": "^0.7.1",
+    "clsx": "^2.1.1",
+    "lucide-react": "^0.553.0",
     "react": "^19.1.1",
-    "react-dom": "^19.1.1"
+    "react-dom": "^19.1.1",
+    "react-router-dom": "^7.9.5",
+    "tailwind-merge": "^3.3.1",
+    "tailwindcss": "^4.1.17"
   },
   "devDependencies": {
     "@eslint/js": "^9.36.0",
@@ -32,6 +37,4 @@
   "overrides": {
     "vite": "npm:rolldown-vite@7.1.14"
   }
-  
-  
 }
